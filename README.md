@@ -4,20 +4,24 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 27, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Jasmine Farooq)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(To complete this assignment, you must compute a user's total income tax and determine 
+the tax bracket the user falls in.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+( https://jazzyf17.github.io/lesson5_javascript2/ )
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (An array is a set of data represent by a single variable name. )
+
+2. (The getElementsByTagName()method can reference a web page element 
+    by looking up all elements of a certain type in document and referencing
+    one element in that collection.)
+
+3. (An if statement evaluates the truth value of a condtion and executes a block of code based on that condition.)
 
